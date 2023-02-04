@@ -1,3 +1,3 @@
 # odin-recipes
 My first website 
-Using only HTML to make a website
+Using Css and Html later i will add JavaScript
